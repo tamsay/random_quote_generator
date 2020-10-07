@@ -23,7 +23,7 @@ Mobile
 
 ## Live Demo
 
-[Hosted Link](tamsay-random-quote-generator.netlify.app)
+[Hosted Link](https://tamsay-random-quote-generator.netlify.app)
 
 ## Author
 
